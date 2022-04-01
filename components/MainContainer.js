@@ -5,7 +5,7 @@ const MainContainer = ({ children, keywords }) => {
   return (
     <>
       <Head>
-        <meta keywords={"ulbi tv, nextjs" + keywords}></meta>
+        <meta keywords={ "nextjs" + keywords}></meta>
         <title>Главная страница</title>
       </Head>
       <div className="navbar">
