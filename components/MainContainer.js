@@ -1,5 +1,4 @@
 import A from "./A";
-import Head from "next/head";
 
 const MainContainer = ({ children, keywords }) => {
   return (
